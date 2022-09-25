@@ -126,11 +126,15 @@ body{
     position:relative;
     display:inline-block;
     width:86%;
-    text-align:left;
-    vertical-align:middle
+    text-align:center;
+    vertical-align:middle;
+    visibility:hidden;
 }
 .main-content{
-    visibility:hidden
+    text-align:center;
+    visibility:hidden;
+    margin:0;
+    padding:0;
 }
 p{
     font-size:1em;
